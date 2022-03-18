@@ -1,3 +1,3 @@
-# Pong in Unity
+# Pac-Man in Unity
 
-Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.
+Pac-Man is an action maze chase video game where the player controls Pac-Man through an enclosed maze. The objective of the game is to eat all of the pellets placed in the maze while avoiding the ghosts — Blinky (red), Pinky (pink), Inky (cyan), and Clyde (orange) — that pursue him.
